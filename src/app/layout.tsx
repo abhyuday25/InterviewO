@@ -20,7 +20,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Cortexa - Remote Interview Platform",
+  title: "InterviewO - Remote Interview Platform",
   description: "Modern remote interview platform with video calls, collaborative code editing, and comprehensive interview management",
 };
 
